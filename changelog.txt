@@ -1,0 +1,162 @@
+CHANGELOG:
+
+(Version 9.2.2) - Thanks to some code from gfgtdf I have implemented a lua advancement solution that replaces the old advancements. Now you don't need the other RoTL add-on but instead only click to turn on or off the advancement modification and allow your units to advance to lvl 4 and 5 heroes!
+
+Also added Mega Rat Lord, Rat Invader, lvl 5 Advancement of the Woodland Enchanter, Reaper, Drake Fire Lord,
+
+(Version 9.2.1) - Fixed Drake Fighter multiplayer advancement to Drake Sword
+
+(Version 9.2.0) - New Release adding advancement for many campaign units. You have to download the Reign of the Lords Default Unit Advancement add-on and then in your campaigns you can advance to:
+
+Noble Legend, Masjetic, Exalted, Regal Monarch, High Princess, Arch Princess, Equestrian Supreme, Grand Horsemarshal, Infantry Master, Horse Conqueror, Wesfolk Elite, Twilight Ancient, Merman Bountier, and Merman High King. And new Dunefolk Nobleman, Dunefolk Grand Protector, Dunefolk Great Flame
+
+Also the Peasant Bandits in Liberty now advance to level 4 and 5! This new release also fixes bugs in multiple weapon specials and unit animations.
+
+
+(Version 9.1.0) - Release for 1.14. Renamed all the khalifate units to work with Dunefolk.
+
+(Version 9.0.0) - Added the Khalifate faction. Including the: Sama, Almuk Alkhalid, Easifa, Aariz, Muntasir, Alkabir, Harba, Shanin, Syd Raydr, Alqayid, Alharb Mubaraza, and Grand Thabt. Currently all the mainline khalifate have advancements, but many more awesome units will be added soon. Also a new rogue archer line has been added with the Altawir and the Muhtal who advance from the Muharib.
+Also all level 2 unit's prices (in the Reign of Heroes) have been balanced. A considerable undertaking, but now it should be a good deal more balanced!
+
+A few units were over powered and have been balanced: Dwarvish Annalist unit line, Elvish Hunter unit line, Dwarvish Bear Rider unit lines, Outlaw Caster unit line.
+
+Also the images of many units have been improved: Armoured Highwayman, Nightblade, Wrath, Destroyer, Iron Mauler, Plunderer, High Templar, Orcish Pursuer, Orcish Stalker, Scythemaster, Elite Sentinel
+
+
+(Version 8.2.2) - New Drake Sword and Swordmaster units have been added and the add-on has been made fully compatible with the many new portraits lord lewis has made!
+
+(Version 8.2.1) - Drake Noble advancement fixed, Ancient > Arch Wose Shaman advancement fixed, Saurian Auger and Soothsayer advancement fixed in singleplayer, and i have changed the factions so that scouts can not be leaders
+
+I have made a variety of sprite and animation changes:
+- Abaddon bottom tail changed
+- Master of Darkness sprite redrawn and fully re-animated
+- Dwarvish Regal sprites changed (to use centurion from carved in stone)
+- Bone Marauder animation fixed
+- High Templar and Drake Obliterator have a shadow now
+- Adjusted Hellion's wing bone color slightly (i think it still needs to be changed more)
+- Collosal Flare's flame color adjusted slightly (it still has clearly two pallets but it is slightly better. The problem is i want a unit that looks like the flame spirit and like the inferno, because i am too lazy to draw  a new inferno sprite)
+
+Thanks to LordLewis many units stats have been fixed:
+- Merman Praetor damage increased
+- Appocalypse Rider movment decreased to 7
+- Crusader, and High Templar movement type changed
+- Bolas's that are melee and pierce fixed for the Elvish Hunter line
+- Battle Druid and Enchantress's melee damage increased
+- Fallen and Reaver's maces changed to impact
+- Barrow Rider 92 hp fixed
+- Saurian Striker sumberged changed to swamp prowl
+- Luminary of Fire hp increased
+- Elvish Majestic and Immortal increased to 6 mp
+- Elvish Immortal now has another blade attack
+- Dragon Bane given a blade attack
+- Dwarvish Flamecaster's melee now has afterburn special
+- Merman Admiral and Grand Admiral have inspire ability
+- Spirit of Flame line has been changed to be archer type
+
+
+(Version 8.2.0) - First and foremostly you will notice the version number has jumped massively. The new system consists of #Number of Factions // #Major releases // #Minor releases // #Bug fix releases. For example 8.2.0 is the 2nd major release since the Reign of the Lords has had 8 factions.
+
+After sitting and thinking for a long time i renamed many units. This is in preperation for adding level 5 units as upgrades for the majority of them. I plan on adding level 5 units for everyone who is not a unique specialist.
+
+	- Shadow Wizard -> Dark Enchanter
+	- Sorcerer of Darkness -> Shadow Wizard
+	- (Human) Destroyer -> Phalanx Trooper
+	- Warden of Light -> High Templar
+	- Revolutionary ->   Upriser
+	- Drake Lord	->   Drake Noble
+	- Dwarvish Rune Diviner -> Dwarvish Rune Lord
+	- Dwarvish Sage Futuristic -> Dwarvish High Alchemist
+	- Gryphon Lord	-> Thunder Gryphon
+	- Dwarvish Armegeddon -> Dwarvish Bear King
+	- Elvish Grand Master -> Elvish Majestic
+	- Elvish Field Master -> Elvish Grand Master
+	- Troll Fire Lord -> Troll Flame Caster
+	- Holy Arrow Master -> Holy Bow Master
+	- Elvish Legendary -> Elvish Legend
+	- Elvish Mounted Expiditionary -> Elvish Swift
+	- (Outlaw) Exterminator -> Eliminator
+	- Elvish Wayfarer [removed]
+	- Elvish Infiltrator -> Elvish Wayfarer (now advances from Elvish Prowler)
+	- Collosal Flare -> Spirit of Flame
+	- Inferno -> Collosal Flare
+	- Dwarvish Master Dragonguard -> Dwarvish Royal Dragonier
+
+Many new units have been added:
+
+	- Goblin Invader (the advancement of the Goblin Marauder)
+	- Werewolf Destrier (the advancement of the Warg Rider)
+	- (undead) Devourer (the advancement of the Hellion)
+	- Saurian Doomsayer (the advancement of the Saurian Damned Shaman)
+	- Inferno (has now been bumped to lvl 5 and a new unit has been added as lvl 4)
+	- Light Rider (the advancement of the Arcane Rider)
+	- High King (the advancement of the Elvish Grand Master)
+	- Black Guard (the advancement of the Armoured Highwayman)
+	- Drake Obliterator (the advancement of the Firestorm)
+	- Excectioner (an alt advancement of the Halberdier)
+	- Paragon (the advancement of the Elvish Legend)
+	- Elemental Mountain (advancing from the Boulder Mammoth)
+	- Abaddon (advancing from the Doom Warden)
+	- Royal Dragonier (the advancment of the Dwarvish Master Dragonguard)
+	- Mammoth Lord (the advancment of the Dwarvish Bear King)
+	- Arch Gryphon (advancing from the Thunder Gryphon)
+	- Naga Ultimatar (advancing from the Naga Centurian)
+	- Dwarvish Fortressor (advancement of the Dwarvish Valient)
+	- Dwarvish Dragon Bane (advancement of the Royal Dragonier)
+
+Changed the sprites for:
+
+	- Warg Rider (with SFaults Wolf Rider)
+	- Boulder Mammoth (with inferno8's Earth God)
+	- Stone Titan (with inferno8's Earth Avatar)
+	- Supreme Commander (with The Golden Age's lord-helmeted)
+	- Armoured Highwayman (made grey instead of blue)
+	- Drake Firestorm (changed face, wing color and shoulder armour)
+	- Doom Bat (now is much bigger)
+	- Royal Dragonier (now golden, larger and wearing a dragon mask)
+
+Rebalanced many units:
+
+	- Slitherblade
+	- Doom Warden
+	- Elvish Vendicator
+	- Orcish Strafer
+	- Saurian Striker
+	- Goblin Raider and its advancements
+	- Dwarvish Lord's advancements
+	- Nightblade and its advancements
+	- Dark Enchanter and its advancement
+
+Fixed bugs including errors with units animations and a problem with the poisoning special. There were a lot of bugs, including the Merman Grand Admiral having the same sprite as the Merman Admiral. 
+
+(Version 1.2.5.1-2) - Bug Fixes for drakes
+
+(Version 1.2.5) - A new faction has been added: The Drake Stormfront. It is a combined Drake and Saurian faction that is really awesome! Now every drake advances to level 4 and some to level 5! New units include: Drake Chancellor, Drake Lord, Drake Firestorm, Maelstrom Drake, Apocalypse Drake, Drake Grand Keeper, Drake Talon, and Drake Kensai Prime. Bug fixes have also been added correcting advancements. Portraits have been changed slightly, and the _main.cfg file has been fixed. 
+
+(Version 1.2.4) - Fixed advancement problems in catarphact, forest warden, and merman retiarius. Added new portraits to a bunch of units. Added many new units and a new faction the outcasts, which consists of outlaws and swamp creatures.
+
+(Version 1.2.3) - Master Dragonguard no longer has fire as its ranged attack, Added elvish hierophant, troll fire wizard, modified elvish avatar's sprite, Slight mod to the Elvish Star's face, Changed the color of the ninja and renamed him to the nightblade, added the merman praetorian, merman admiral, merman raetarius, merman spear caster and renamed the nightblade to the ninja, Removed Ancient Ogres spear, Pilum Master renamed to Velite, King of the Mountain renamed to Regal, added Goblin Piercer, Goblin Trumpeter, Orion, Infiltrator, Forest Warden, Armoured Highwayman, Revolutionary, Naga Centurion, Elvish Gryphonier,Great and Ancient Ogres.  Added cave runner melee animations thanks to Forest Dragon. Added advancement of Jouster (Catarphact). Added advancement for white mage to mage of nature in multiplayer. The golden mage has been removed because of lack of uniqueness, the reaper has been removed temporarily because of a not good enough sprite. The skymarshal has been changed to have no bow and be in an alt advancement line as the mounted expiditionary. Renamed the Battleserker to the Rampager.
+
+(Version 1.2.2) - Added new units, Pilum Master, Goblin Prime, Goblin Polearm, Dwarvish Arch Thane, . Renamed the Dwarvish Mountain King to King under the Mountain. Fixed some bugs.
+
+(Version 1.2.1.3) - Updated Sage Futuristics sprite, fixed arcane riders attack anim, reduced the arch necromancer and prince of darkness' strength, buffed the destroy and decimation trooper, added the new javelin master. The crusader now advances to the pheonix knight and the warmaster has been removed
+
+(Version 1.2.1.2) - Solves a advancement problem in the multiplayer era
+
+(Version 1.2) - Yes the Undead Faction has now been released it includes the: Abomination, Fallen, Reaver, Horror, Phantom, Master Of Darkness, Abyss Rider, Death Charger, Barrow Rider, Hellion, Hellstorm Invader, Arch Necromancer, Prince of Darkness, Black Crusader, Bone Maurader, Death Lord, Eternal Lich, Doom Warden, Dread Hunter, Slither Blade, Wrath! Many bug fixes have been made. The elven vanquisher sprite has been changed to be more green thanks to era of more units. The Orcish Emperor has been renamed the Supreme and the Supreme has been renamed the Emperor. A new unit for the Orcs has also been added the Warlock a advancement of the Conjurer. Also the Revenant advancement has been fixed. The elvish star sprite has been changed. The ensnare weapon special has been fixed. The Afterburn weapon special has been fixed. The relentless weapon special has been fixed. The Ice Fang and Ice Penertrator have been added to the Elemental faction. The Silver Mage now advances to the Golden Mage and the Mage of Lustre. Portraits for some units have been correctly resized. The code has been cleaned up some. A new portrait has been made for the elvish infiltrator and all the undead have been given portraits.
+
+(Version 1.1.6) - This Newest Release attempts to balance the Dwarves,Orcs, and Loyalists. (Thanks to IPS for help invalueble advice) Main changes include: Dwarvish Barrager - new explosive crossbow, Orcish Huntsman, Predator - nightstalk ability, Orcish Pikeman, Vanguard - removed Precision reduced range, Precision attack reduced. Siege Trooper line increased resistances. Gryphon knight has a new attack icon. Unforetunately afterburn special still not working.
+
+(Version 1.1.5) - Mind Raid Weapon special fixed, Made holy arrow master more holy, gave dwarvish mountain king bigger shield, reduced elvish battle enchantress and druids attacks, jouster has a better face, goblin ravager bigger body, battle rager bigger hair, battle sorceress looks way cooler, battle druid looks more like upgrade, orcish emporer has lead anim, dwarvish sage has ranged anim, goblin raider has ranged anim, a bunch of thanks to Forest Dragon for changes and a modified sorcerer of darkness, and more anims for the dwarvish explorer, orcish assassinator removed - ninja now advances to nightstalker
+
+(Version 1.1.4) - Changed Rune Warrior sprite's sword, fixed water ambush on castles, added dwarvish blacksmith line to have leadership, reduced lava giant attack, changed Mage of Lustres sprite, renamed vanquisher to shifter, created new unit called vanquisher, fix the multiplayer advancement event problems, created a bunch of new units: Supreme Commander, Luminary of Fire, Orcish Emporer, Dwarvish Barrager, Dwarvish Cave Runner, Dwarvish Sage Futuristic, Elvish Mounted Expiditionary, Elvish Shifter, The Arch Wose, the Dwarvish Smith Master, The Millenial Wose, Auxiliary Master, and a troll even bigger than the Troll Giant... the Troll Gargantuan!
+
+(Version 1.1.3) - To all the people who just downloaded version 1.1.2 and are tired of downloading new versions: sorry about the errors in version 1.1.2 i have solved most of them in this newest version and fixed a bunch of the ability and weapon specials which were having problems. The magi and elementals teams recruitment pattern was also fixed. (and added new units Rune Diviner,Rune Warrior, and Auxiliary Master)
+
+(Version 1.1.2) - Some more units and a few bug fixes and also i fixed a experience problem with Multiplayer advancement modification (Added units: Elvish Avatar,Pheonix knight,Elvish Vanquisher,Mage of Lustre,Mage of Glory,Orcish High Mogoul,Elvish Star,Goblin Marauder,Woodland Beast,Naiad,Dwarvish Iron Bear,Dwarvish Armageddon,Orcish Vanguard,)
+If you have any suggestions or ideas please post any comments on the wesnoth forum about this newest version of the 5 Lords Reign faction.
+
+(Version 1.1.1) - I've tried balancing the factions more in the newest version, also a modification button in the multiplayer menu has been added to turn on and off the base wesnoth units advancing to these Lords, i've added and removed a few units and changed some of the code to fix it in the wesnoth unit database. (removed units: faerie spirit,catarphact,custodian,troll warlord,mage of storms,djinn - these units have been removed b/c a few were overly repetitive, some didn't have good pictures, some were unbalanced, and some didn't fit) (Added units: Elvish Avatar,Pheonix knight,Elvish deadeye,Elvish Vanquisher,Elvish Star,Arch Wose,Troll Giant)
+
+(Version 1.1.0) - This new version is entirely independent of the base wesnoth and so does not mess up the normal unit upgrades. But i have made another mod 5  Lords Default Unit Advancements, which allows you to upgrade from the base units to all of these super awesome new ones. also got some more portraits, added a few new units, fixed a bunch of problems
+
+(Version 1.0.3) - Sorry about the bugs in version 1.0.0 i've fixed them now, also added some new units, updated the images on some units, and added portraits for a bunch of them (thats why this version is a bit bigger then the last)

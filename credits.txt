@@ -1,0 +1,305 @@
+I (The_Gnat) did the majority of the coding but all the image goes credit to the below: 
+(and if you see any good animations you can be sure i didn't create them)
+
+= Dwarves::
+- Arbalestier: 		War of Legends
+- Annalist: 		The hammer of thursagan
+- Arch Thane:		SFault + modified slightly by The_Gnat
+- Avalanche:		The Golden Age
+- Barrager:		The_Gnat
+- Bear King:		The Golden Age
+- Iron Bear:		The Golden Age
+- Battlerager: 		Legend of the Invincibles
+- Rampager:	 	The Golden Age
+- Cave Runner:		The_Gnat
+- Dragon Bane:		The_Gnat
+- Fortressor:		The_Gnat
+- Hero: 		Legend of the Invincibles
+- Loremaster: 		The hammer of thursagan
+- Gryphon Lord:		The Golden Age
+- Gryphon Knight:	The_Gnat
+- Royal Dragonier: 	The_Gnat (ideas from ForestDragon)
+- Mammoth Lord:		The_Gnat + doofus-01 (mammoth)
+- Metal Worker:		Era of Magic (Rune Master)
+- Regal: 		The Golden Age
+- Sage Futuristic:	Vyncyn (anims by The_Gnat)
+- Rune Warrior:		Era of Magic
+- Rune Diviner:		Era of Magic (Rune Lord)
+- Smith Master:		Era of Magic (Rune Smith)
+
+= Elementals::
+- Air Avatar: 		Era of Magic
+- Boulder Mammoth: 	Era of Magic (Earth God)
+- Collosusotarous:	Ageless Era
+- Collosal Flare: 	The_Gnat
+- Inferno: 		Era of Magic (Fire God)
+- Ice Fang:		War of Legends (Ice shell)
+- Ice Penatrator:	The_Gnat
+- Enchanted Mountain:	The_Gnat from Era of Magic (Earth God)
+- Lava Behemoth: 	War of Legends
+- Lava Giant: 		War of Legends 
+- Monsterasorous:	Ageless Era
+- Naiad: 		The_Gnat
+- Nymph: 		War of Legends
+- Stone Titan: 		Era of Magic (Earth Avatar)
+- Vine Hulk: 		War of Legends
+- Vine Wreaker: 	The_Gnat
+- Whirlwind: 		Era of Magic (Air God)
+
+= Elves::
+- Arch Wose:		Uber Default
+- Avatar:		The Golden Age
+- Ancient Wose Shaman: 	thespaceinvader
+- Battle Druid:		The Golden Age (zealot)
+- Battle Enchantress:	The_Gnat
+- Deadeye:		The_Gnat
+- Mystical Deadeye:	LordLewis
+- Field Master:		Legend of the Invincibles (warlord)
+- Legendary:		Legend of the Invincibles (juggernaut)
+- Gryphonier:		Grycian Era (Lancer)
+- Grand Master:		The Golden Age (overlord)
+- Infiltrator:		The Golden Age (Vanquisher)
+- Hierophant:		The_Gnat + SFault
+- Halberdier:		The Golden Age
+- Millenial Wose:	The_Gnat
+- Mystic:		War of Legends (warden)
+- Prowler:		War of Legends (wayfarer)
+- Mounted Expidtionary:	The Golden Age (Horse bow)
+- Star:			Uber Default era / The_Gnat
+- Skymarshal:		Grycian Era (Knight)
+- Vanquisher:		Era of More Units (Admiral)
+- Vendicator:		Legend of the Invincibles (assassin)
+- Wayfarer:		War of Legends (prowler)
+
+= Loyalists::
+- Appocalypse Rider:	The_Gnat
+- Arcane Rider:		Legend of the Invincibles (Prophet)
+- Auxiliary Master:	The_Gnat
+- Crusader:		War of Legends
+- Decimation Trooper:	Legend of the Invincibles (Titanium Decimator)
+- Destroyer:		The Golden Age
+- Dragon Knight:	Legend of the Invincibles (Dragon Rider)
+- Elephant Catarphact:	The Golden Age / The_Gnat
+- Elite Sentinel:	Legend of the Invincibles (Swordmaster)
+- Excecutioner:		The_Gnat
+- Epic Saber:		Legend of the Invincibles (Warlock)
+- Iron Mauler:		The_Gnat
+- Grand Master Bowman:	The_Gnat
+- High Custodian:	The_Gnat
+- Holy Arrow Master:	Legend of the Invincibles (Arrow Master)
+- Light Rider:		The_Gnat + Legend of the Invincibles (Celestial Messenger)
+- Jouster:		The Golden Age (Lunatic Rider)
+- Phoenix Knight:	The_Gnat
+- Siege Trooper:	Default Wesnoth (Iron Mauler)
+- Scythe Master:	Legend of the Invincibles
+- Supreme Commander:	Uber_Default + The_Gnat (Duke)
+- Warden of Light:	The Golden Age
+- Warmaster:		War of Legends
+- Velite:		The Golden Age (Javelin Master)
+
+= Magi::
+- Celestial Messenger:	War of The Gods
+- Luminary of Fire:	Legend of the Invincibles[female]
+- Mage of Nature:	War of Legends
+- Mage of Glory:	The_Gnat
+- Mage of Lustre:	Aldarisvet (silver arch mage)
+- Prophet of Fire:	[female] War of Legends
+			[male] The_Gnat / The Golden Age (Golden Mage)
+- Wooland Enchanter:	War of Legends + The_Gnat
+
+
+
+(NOTE: everything i couldn't remember i credited to TGA if i was incorrect please post)
+
+=Orcs::
+- Nightblade:		The_Gnat
+- Ninja:		[mainline 1.13]
+- Conjurer:		[mainline 1.13]
+- Royal Assassin:	Dingo7
+- Warlock:		The Golden Age
+- Huntsman:		*needs work
+- Predator:		The_Gnat *needs work
+- Emperor:		The_Gnat
+- Mogoul:		The Golden Age / The_Gnat / Forestdragon
+- Supreme: 		??
+- Strafer:		Legend of The Invincibles
+- Warmonger:		Legend of The Invincibles
+- Pikeman:		The_Gnat
+- Vanguard:		The_Gnat
+
+
+= Goblins::
+- Piercer:		The Golden Age (spearmaster)
+- Trumpeter:		The Golden Age
+- Warg Rider:		SFault (large golin wolf rider)
+- Invader:		The_Gnat + SFault (huge spider)
+- Werewolf Destrier:	The_Gnat + Archaic (skylarion)
+- Ravager:		Ageless Era?
+- Raider:		The_Gnat + Dingo7
+- Prime:		The Golden Age
+- Marauder:		The_Gnat
+- Polearm:		The Golden Age (warbanner)
+
+
+=Trolls::
+- Bombardier:		The_Gnat
+- Boulder lobber:	The_Gnat??
+- Gargantuan:		Carved in Stone
+- Giant:		The_Gnat
+- Magical:		Era of Magic (fire shaman)
+- Fire Lord:		Inferno8 (warlock)
+
+
+= Undead::
+- Abomination:		The Golden Age
+- Abaddon:		The Gnat + Mechanical
+- Fallen:		Uber Default
+- Reaver:		Uber Default
+- Doom Bat:		The Golden Age
+- Cave Bat:		The_Gnat
+- Master of Darkness:	Era of Magic
+- Abyss Rider:		Uber Default
+- Barrow Rider:		Uber Default
+- Death Charger:	[mainline]
+- Hellion:		The Golden Age
+- Devourer:		The_Gnat (Skeleton Dragon + Black Crusader body)
+- Hellstorm Invader:	The_Gnat
+- Arch Necromancer:	Legend of The Invincibles
+- Dread Lich:		War of Legends / anims The_Gnat
+- Eternal Lich:		The_Gnat
+- Prince of Darkness:	Legend of The Incibles (beezelbub)
+- Black Crusader:	The Golden Age
+- Bone Pirate:		Uber Default
+- Bone Marauder:	ghype
+- Death Lord:		The Golden Age (deathmarshal)
+- Doom Warden:		The_Gnat
+- Dread Hunter:		The Golden Age
+- Slither Blade:	The Golden Age
+- Wrath:		The Golden Age (deathlord)
+- Apparition:		The Golden Age
+- Phantom:		Zerovirus
+
+=Drakes::
+- Drake Talon:		Vulpine
+- Drake Kensai Prime:	The Golden Age (Kensai)
+- Drake Lord:		The Golden Age
+- Drake Chancellor:	The_Gnat + The Golden Age's (DragonHeart)
+- Drake Apocalypse:	The Golden Age (DragonHeart)
+- Drake Maelstrom:	The_Gnat
+- Drake Firestorm:	Vulpine + The_Gnat
+- Drake Obliterator:	ZeroVirus + The_Gnat
+- Drake Grand Keeper:	Vulpine
+- Drake Conqueror:	The_Gnat
+- Drake Sword:		The Golden Age
+- Drake Swordmaster:	The Golden Age
+
+
+=Other::
+- Merman Grand Admiral:	The_Gnat
+- Merman Admiral:	The_Gnat
+- Merman Retairius:	The_Gnat
+- Merman Praetor:	The Golden Age
+- Merman Spear Caster:	The_Gnat
+- Naga Centurion:	Mechanical + ForestDragon + The_Gnat
+- Naga Ultimatar:	Mechanical + The_Gnat
+- Anicent Ogre:		The Golden Age [modified by The_Gnat removed spear]
+- Great Ogre:		The Golden Age
+- Rat Lord:
+- Mud Juggernaut:	Dingo7
+
+
+=Outlaws::
+
+- Armour Highwayman:	The Golden Age
+- Infiltrator:		Legend of The Invincibles (efriam) [modified by The_Gnat]
+- Revolutionary:	Legend of The Invincibles (Excecutioner) [modified by The_Gnat]
+- Forest Warden:	The_Gnat
+- Orion:		Legend of the Invincibles
+- Woodland Master:	Vyncyn (human commander original) + The_Gnat
+- Predator:		Vyncyn (user avatar) + The_Gnat
+- Shadow Wizard:	??? + The_Gnat + Forest Dragon
+- Dark Enchanter:	War of Legends (Sorcerer)
+- Witch:		The Golden Age + The_Gnat
+- Witch Doctor:		Ageless Era + The_Gnat
+- Cunningman:		Ageless Era (Apprentice) + The_Gnat
+- Grand Warlock:	Ageless Era + The_Gnat
+- Grand Witch:		Ageless Era (Warlock) + The_Gnat
+- Brigand:		Ageless Era
+- Renegade Horseman:	Ageless Era
+- Plunderer:		Era of Magic
+- Maverick Rider:	Ageless Era + The_Gnat
+
+
+=Khalifate::
+
+- Grand Protector		The_Gnat
+- Great Flame (Great Jahim)	ghype
+- Guru (Aariz)			LordLewis
+- Confronter (Alqayid)		LordLewis
+- Challenger (Alharb)		LordLewis
+- Destroyer (Alkabir)		LordLewis
+- Grand Sultan (Almulk Alkhalid)	LordLewis
+- Shadower (Altawir)		LordLewis
+- Blazer (Easifa)		LordLewis + The_Gnat
+- Guardian (Grand Thabt)		LordLewis
+- Annihilator (Harba)			LordLewis
+- Oppressor (Mubaraza)		The_Gnat
+- Stalker (Muhtal)		LordLewis + The_Gnat
+- Elder (Muntasir)		LordLewis
+- Airist (Sama)			LordLewis + The_Gnat
+- Conqueror (Shanin)		The_Gnat
+- Maven (Syd Raydr)		LordLewis
+- Great Falcon		The_Gnat
+
+
+
+- Saurian Clairvoyant:	The Golden Age
+- Saurian Visionairy:	The_Gnat + Era of Magic
+- Saurian Diviner:	The Golden Age
+- Saurian Sage:		The Golden Age
+- Saurian Dark Shaman:	Era of Magic
+- Saurian Damned Shaman:Era of Magic
+- Saurian Doomsayer:	Era of Magic
+- Saurian Striker:	The_Gnat + Era of Magic
+
+
+= - HEROES - =
+- Lisar (lvl 4 and 5) 	LordLewis + ghype
+- Konrad (lvl 4 and 5)	LordLewis + The_Gnat + ghpye
+- Noble Legend		LordLewis
+- Regal Monarch		LordLewis
+- Grand Horsemarshal	The_Gnat + LordLewis
+- Equestrian Supreme	The_Gnat
+- Horse Conqueror	LordLewis
+- Infantry Commander	LordLewis
+- Shadow lord		LordLewis
+- Wesfolk Elite		LordLewis
+
+--------------------------------------------------------------
+
+= Weapon Specials
+- Trap:			The_Gnat
+- Ensnare:		The_Gnat
+- Speed Attack:		(Struggle) Legend of the Invincibles
+- Furocity:		(Circular) Lea + The_Gnat
+- No Counter Attack: 	Era of Magic
+- Trample:		War of the Gods
+- Ceaseless:		(Split Fire) War of the Gods
+- Grenade:		War of the Gods
+- Draining Aura:	(Spiked Armor) Abilites Era
+- Mind Raid:		(Raid) Abilities Era
+- Marksman Defense:	War of the Gods 
+- Mind Control:		(Choas)	Abilities Era (TODO)
+- Blood Lust:		Abilities Era
+- Loner:		Abilities Era (TODO)
+- Mountain Ambush:	War of the Gods
+- Water Ambush:		War of the Gods
+- On Death Become:	The_Gnat
+- Twilight Stalker:	?
+- Dead Zone:		Era of Magic (TODO)
+- Explosive:		(Cleave) Uber Default
+- others...		War of Legends (probably)
+
+NOTE: if anyone i have credited or not credited please tell me on the forum for the Reign of the Lords
+
+--------------------------------------------------------------

@@ -1,0 +1,82 @@
+
+ABILITY_HEALS
+
+    Canned definition of the heal+4 ability to be included in an [abilities] clause.
+ABILITY_UNPOISON
+
+    Canned definition of the cure-poison ability to be included in an [abilities] clause.
+ABILITY_CURES
+
+    Canned definition of the cure ability (which entails heal+8) to be included in an [abilities] clause..
+ABILITY_REGENERATES
+
+    Canned definition of the Regenerate ability to be included in an [abilities] clause.
+ABILITY_STEADFAST
+
+    Canned definition of the Steadfast ability to be included in an [abilities] clause.
+ABILITY_LEADERSHIP
+
+    Canned definition of the Leadership ability to be included in an [abilities] clause. Note: Works only on units of level 1-5
+ABILITY_SKIRMISHER
+
+    Canned definition of the Skirmisher ability to be included in an [abilities] clause.
+ABILITY_ILLUMINATES
+
+    Canned definition of the Illuminates ability to be included in an [abilities] clause.
+ABILITY_TELEPORT
+
+    Canned definition of the TELEPORT ability to be included in an [abilities] clause.
+ABILITY_AMBUSH
+
+    Canned definition of the Ambush ability to be included in an [abilities] clause.
+ABILITY_NIGHTSTALK
+
+    Canned definition of the Nightstalk ability to be included in an [abilities] clause.
+ABILITY_CONCEALMENT
+
+    Canned definition of the Concealment ability to be included in an [abilities] clause.
+ABILITY_SUBMERGE
+
+    Canned definition of the Submerge ability to be included in an [abilities] clause.
+ABILITY_FEEDING
+
+    Canned definition of the Feeding ability to be included in an [abilities] clause. Note: this is deliberately unbalanced WML, in order to close the abilities clause then insert the event then reopen the abilities clause.
+WEAPON_SPECIAL_BERSERK
+
+    Canned definition of the Berserk ability to be included in a [specials] clause.
+WEAPON_SPECIAL_BACKSTAB
+
+    Canned definition of the Backstab ability to be included in a [specials] clause.
+WEAPON_SPECIAL_PLAGUE_TYPE TYPE
+
+    Canned definition of the Plague ability to be included in a [specials] clause (with type specifier).
+WEAPON_SPECIAL_PLAGUE
+
+    Canned definition of the Plague ability to be included in a [specials] clause.
+WEAPON_SPECIAL_SLOW
+
+    Canned definition of the Slow ability to be included in a [specials] clause.
+WEAPON_SPECIAL_PETRIFY
+
+    Canned definition of the Petrify ability to be included in a [specials] clause.
+WEAPON_SPECIAL_MARKSMAN
+
+    Canned definition of the Marksman ability to be included in a [specials] clause.
+WEAPON_SPECIAL_MAGICAL
+
+    Canned definition of the Magical (targeting) ability to be included in a [specials] clause.
+WEAPON_SPECIAL_SWARM
+
+    Canned definition of the Swarm ability to be included in a [specials] clause.
+WEAPON_SPECIAL_CHARGE
+
+    Canned definition of the Charge ability to be included in a [specials] clause.
+WEAPON_SPECIAL_DRAIN
+
+    Canned definition of the Drain ability to be included in a [specials] clause.
+WEAPON_SPECIAL_FIRSTSTRIKE
+
+    Canned definition of the First-strike ability to be included in a [specials] clause.
+WEAPON_SPECIAL_POISON
+
+    Canned definition of the Poison ability to be included in a [specials] clause.
